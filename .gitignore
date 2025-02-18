@@ -1,2 +1,3 @@
 newsenv
 __pycache__
+.env
