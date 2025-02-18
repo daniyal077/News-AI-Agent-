@@ -136,7 +136,7 @@ Please follow our coding standards and ensure all tests pass before submitting.
 ---
 
 *References:*
-- citeturn1search0 (CrewAI GitHub README)
-- citeturn1search1 (Groq Documentation)
-- citeturn1search12 (CrewAI Enterprise Help Center)
+- https://github.com/crewAIInc/crewAI/blob/main/README.md (CrewAI GitHub README)
+- https://console.groq.com/docs/crewai (Groq Documentation)
+- https://help.crewai.com/how-to-build-a-crew-for-crewai (CrewAI Enterprise Help Center)
 
