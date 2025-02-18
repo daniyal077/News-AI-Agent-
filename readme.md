@@ -1,7 +1,3 @@
-Below is an example of a polished README.md for your CrewAI project that integrates Groq for high-speed LLM inference. You can customize the sections as needed.
-
----
-
 # CrewAI Financial Trends Newsletter Automation
 
 This project leverages the CrewAI framework to orchestrate a team of autonomous AI agents that work together to research, write, and proofread a newsletter about the latest trends in financial technology. It uses the Groq API for fast inference on a Groq-compatible LLM and includes custom tools (e.g., Google search via SerperDevTool) to enhance agent capabilities.
